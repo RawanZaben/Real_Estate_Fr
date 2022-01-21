@@ -4,7 +4,7 @@ import ProgressBar from '../../ProgressBar';
 import { useHistory } from "react-router-dom";
 import { GiReturnArrow } from 'react-icons/gi';
 
-//
+//jkhkj
 
 export default function AddBuyAdmin(props) {
   const history = useHistory();
